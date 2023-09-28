@@ -1,0 +1,14 @@
+<div class="container products-container">
+    <h3 class="search-result">Search Results for : {{searchText}} </h3>
+  <div class="card mt-5" *ngFor="let item of productList" (click)="productDetails(item)" [ngClass]="{'discontinued':item.discontinued}" >
+    <img src="{{item.productImage}}" class="card-img-top card-img-size center" alt="..." >
+    <div class="card-body">
+      <h5 class="card-title text-center">{{item.productName}}</h5>
+      <p class="card-text mb-2">Some quick example text to build on </p>
+      <div class="price-cart-container">
+        <h6>Rs. {{item.unitPrice}}</h6>
+        <a href="#" routerLink="[product-details]/item.productId" class="btn btn-success cart-btn mb-2">View Product</a>
+      </div>
+    </div>
+  </div>
+</div>

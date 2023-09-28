@@ -1,0 +1,21 @@
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.DAL\bin\Debug\Grocery.Soti.Project.DAL.dll.config
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.DAL\bin\Debug\Grocery.Soti.Project.DAL.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.DAL\bin\Debug\Grocery.Soti.Project.DAL.pdb
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.DAL\obj\Debug\Grocery.Soti.Project.DAL.csproj.AssemblyReference.cache
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.DAL\obj\Debug\Grocery.Soti.Project.DAL.csproj.CoreCompileInputs.cache
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.DAL\obj\Debug\Grocery.Soti.Project.DAL.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.DAL\obj\Debug\Grocery.Soti.Project.DAL.pdb
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.DAL\bin\Debug\Grocery.Soti.Project.DAL.dll.config
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.DAL\bin\Debug\Grocery.Soti.Project.DAL.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.DAL\bin\Debug\Grocery.Soti.Project.DAL.pdb
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.DAL\obj\Debug\Grocery.Soti.Project.DAL.csproj.AssemblyReference.cache
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.DAL\obj\Debug\Grocery.Soti.Project.DAL.csproj.CoreCompileInputs.cache
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.DAL\obj\Debug\Grocery.Soti.Project.DAL.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.DAL\obj\Debug\Grocery.Soti.Project.DAL.pdb
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.DAL\bin\Debug\Grocery.Soti.Project.DAL.dll.config
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.DAL\bin\Debug\Grocery.Soti.Project.DAL.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.DAL\bin\Debug\Grocery.Soti.Project.DAL.pdb
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.DAL\obj\Debug\Grocery.Soti.Project.DAL.csproj.AssemblyReference.cache
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.DAL\obj\Debug\Grocery.Soti.Project.DAL.csproj.CoreCompileInputs.cache
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.DAL\obj\Debug\Grocery.Soti.Project.DAL.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.DAL\obj\Debug\Grocery.Soti.Project.DAL.pdb

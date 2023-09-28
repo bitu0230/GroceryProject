@@ -1,0 +1,19 @@
+.card-header{
+    background-color: #28965A;
+}
+.card{
+    border: 0px;
+    padding-top: 20px;
+}
+
+.form-image-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    
+    img{
+        width: 80%;
+        
+    }
+}

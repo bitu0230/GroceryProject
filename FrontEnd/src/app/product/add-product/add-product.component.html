@@ -1,0 +1,231 @@
+<!-- Add New Product Page -->
+<div class="container ">
+    <div class="row justify-content-center">
+      <!-- image on left half -->
+      <div class="col-md-5  addImg mx-2"></div>
+      <!-- form on right half  -->
+      <div class="card col-md-5 addForm mt-2 mx-2 border-0">
+       
+        <div class="card-body">
+          <div class="heading text-center">
+            <h1 class="para">Add Product</h1>
+          </div>
+          <!-- Add Product Form  -->
+          <form [formGroup]="addForm" (ngSubmit)="onSubmit()">
+            <!-- Product Name  -->
+            <div class="mt-1">
+              <label class="form-label" for="productName">Product Name</label>
+              <input
+                type="text"
+                class="form-control"
+                formControlName="productName"
+                [ngClass]="{
+                  error:
+                    (submitted || f['productName'].touched) &&
+                    f['productName'].errors
+                }"
+              />
+              <div
+                *ngIf="
+                  (submitted || f['productName'].touched) &&
+                  f['productName'].errors
+                "
+                class="text-danger small"
+              >
+                <span *ngIf="f['productName'].errors?.['required']"
+                  >Product Name is required here.</span
+                >
+                <span *ngIf="f['productName'].errors?.['minlength']"
+                  >Product Name should atleast have 3 characters.</span
+                >
+              </div>
+            </div>
+   
+            <!-- Description  -->
+            <div class="mt-1">
+              <label class="form-label" for="description">Description</label>
+              <input
+                type="text"
+                class="form-control"
+                formControlName="description"
+                [ngClass]="{
+                  error:
+                    (submitted || f['description'].touched) &&
+                    f['description'].errors
+                }"
+              />
+              <div
+                *ngIf="
+                  (submitted || f['description'].touched) &&
+                  f['description'].errors
+                "
+                class="text-danger small"
+              >
+                <span *ngIf="f['description'].errors?.['required']"
+                  >Description is required here.</span
+                >
+                <span *ngIf="f['description'].errors?.['minlength']"
+                  >Description should atleast have 10 characters.</span
+                >
+              </div>
+            </div>
+   
+            <div class="mt-1">
+              <div class="row">
+                <!-- Unit Price  -->
+                <div class="col-6">
+                  <label class="form-label" for="unitPrice">Unit Price</label>
+                  <input
+                    type="number"
+                    class="form-control"
+                    min="1"
+                    formControlName="unitPrice"
+                    [ngClass]="{
+                      error:
+                        (submitted || f['unitPrice'].touched) &&
+                        f['unitPrice'].errors
+                    }"
+                  />
+                  <div
+                    *ngIf="
+                      (submitted || f['unitPrice'].touched) &&
+                      f['unitPrice'].errors
+                    "
+                    class="text-danger small"
+                  >
+                    <span *ngIf="f['unitPrice'].errors?.['required']"
+                      >Unit Price is required here.</span
+                    >
+                    <span *ngIf="f['unitPrice'].errors?.['min']"
+                      >Unit Price should be more than 0.</span
+                    >
+                  </div>
+                </div>
+   
+                <!-- Units In Stock  -->
+                <div class="col-6">
+                  <label class="form-label" for="unitsInStock"
+                    >Units In Stock</label
+                  >
+                  <input
+                    type="number"
+                    class="form-control"
+                    min="1"
+                    formControlName="unitsInStock"
+                    [ngClass]="{
+                      error:
+                        (submitted || f['unitsInStock'].touched) &&
+                        f['unitsInStock'].errors
+                    }"
+                  />
+                  <div
+                    *ngIf="
+                      (submitted || f['unitsInStock'].touched) &&
+                      f['unitsInStock'].errors
+                    "
+                    class="text-danger small"
+                  >
+                    <span *ngIf="f['unitsInStock'].errors?.['required']"
+                      >Units In Stock is required here.</span
+                    >
+                    <span *ngIf="f['unitsInStock'].errors?.['min']"
+                      >Units In Stock should be more than 0.</span
+                    >
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- Category -->
+            <div class="mt-1">
+              <label class="form-label" for="categoryId">Category</label>
+              <select
+                class="form-select"
+                formControlName="categoryId"
+                [ngClass]="{
+                  error:
+                    (submitted || f['unitsInStock'].touched) &&
+                    f['unitsInStock'].errors
+                }"
+              >
+                <option disabled="true">-- Select Category --</option>
+                <option
+                  *ngFor="let category of categories"
+                  value="{{ category.categoryId }}"
+                >
+                  {{ category.categoryName }}
+                </option>
+              </select>
+              <div
+                *ngIf="
+                  (submitted || f['categoryId'].touched) && f['categoryId'].errors
+                "
+                class="text-danger small"
+              >
+                <span *ngIf="f['categoryId'].errors?.['required']"
+                  >Category is required here.</span
+                >
+              </div>
+            </div>
+   
+            <!-- Product Image  -->
+            <div class="mt-1">
+              <label class="form-label" for="productImage">Product Image</label>
+              <input
+                type="file"
+                class="form-control"
+                formControlName="productImage"
+                (click)="onSelectingImage($event)"
+                [ngClass]="{
+                  error:
+                    (submitted || f['productImage'].touched) &&
+                    f['productImage'].errors
+                }"
+              />
+              <div
+                *ngIf="
+                  (submitted || f['productImage'].touched) &&
+                  f['productImage'].errors
+                "
+                class="text-danger small"
+              >
+                <span *ngIf="f['productImage'].errors?.['required']"
+                  >Product Image is required here.</span
+                >
+              </div>
+            </div>
+
+          <!-- Submit Button -->
+          <div class="mt-4 d-flex justify-content-center">
+            <button type="submit" class="btn btn-success" [disabled]="!addForm.valid">
+              <b>Add Product</b>
+            </button>
+          </div>
+            <!-- Result Display  -->
+            <div class="mt-4 d-flex justify-content-center">
+              <div *ngIf="submitted && isAdded">
+                <span class="text-success">Added Successfully!!</span>
+                <button
+                  type="reset"
+                  class="btn btn-success mx-2"
+                  (click)="resetForm()"
+                >
+                  <b>Ok</b>
+                </button>
+              </div>
+              <div *ngIf="submitted == true && isAdded == false">
+                <span class="text-danger">Error Occurred!!</span>
+                <button
+                  type="reset"
+                  class="btn btn-danger mx-2"
+                  (click)="resetForm()"
+                >
+                  <b>Try Again</b>
+                </button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+   

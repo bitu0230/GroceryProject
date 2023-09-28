@@ -1,0 +1,25 @@
+.carousel-image{
+    width: 30%;
+    height: 60%; 
+    margin-left: 63%;
+    margin-top: 0.5%;
+}
+.carousel-caption{
+    color: black;
+    bottom: 60px;
+    margin-right: 40%;
+    padding-top: 40%;
+    margin-top: 20%;
+}
+.font-change1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+@media only screen and (max-width: 760px) {
+    .container{
+        z-index: 1;
+        background-color: aquamarine;
+        position: fixed;
+    }
+    
+  }

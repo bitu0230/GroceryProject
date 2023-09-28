@@ -1,0 +1,77 @@
+<div class="row mt-3">
+    <div class="my-container">
+      <div class="add-category-imgage-container">
+          <img
+            src="https://img.freepik.com/premium-vector/grocery-vegetables-illustration-character-buying-online-fresh-organic-vegetables_787654-116.jpg?w=996"
+            alt=""
+          />
+      </div>
+      <div class="card custom-card bg-light">
+        <div class="text-success text-center">
+          <h3>Add New Category</h3>
+        </div>
+        <div class="card-body">
+          <form
+            action=""
+            class="custom-from"
+            [formGroup]="addCategoryForm"
+            (ngSubmit)="onSubmit()"
+          >
+            <div class="mb-3">
+              <label for="" class="col-from-label">Category Name</label>
+              <input
+                type="text"
+                class="form-control custom-input"
+                placeholder="Enter Category Name"
+                formControlName="categoryName"
+              />
+              <div
+                *ngIf="
+                  (isSubmitted || f['categoryName'].touched) &&
+                  f['categoryName'].errors
+                "
+                class="text-danger small"
+              >
+                <span *ngIf="f['categoryName'].errors?.['required']"
+                  >Category Name is required</span
+                >
+              </div>
+            </div>
+            <div class="mb-3">
+              <label for="" class="col-from-label">Category Image</label>
+              <input
+                type="file"
+                class="form-control custom-input"
+                placeholder="Enter Category Image"
+                formControlName="categoryImage"
+                (change)="onSelectingImage($event)"
+              />
+              <div
+                *ngIf="
+                  (isSubmitted || f['categoryImage'].touched) &&
+                  f['categoryImage'].errors
+                "
+                class="text-danger small"
+              >
+                <span *ngIf="f['categoryImage'].errors?.['required']"
+                  >Category Image is required</span
+                >
+              </div>
+            </div>
+ 
+            <div class="mb-3 text-center">
+              <button type="submit" class="btn btn-success">Add Category</button>
+            </div>
+            <div
+                *ngIf="!isSuccessful"
+                class="text-danger small text-center"
+              >
+                <span >This category name alredy exists</span>
+              </div>
+          </form>
+        </div>
+      </div>
+     
+    </div>
+  </div>
+ 

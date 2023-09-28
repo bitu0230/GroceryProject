@@ -1,0 +1,43 @@
+<!-- Browse category grid-->
+<!--TODO - width size implement-->
+<!--TODO - color of navbar -->
+<!--TODO Responsive -->
+<div id="categories" class="container">
+  <div class="container">
+    <h2 class="my-5 text-center"> Browse All Categories<br>
+      <p class="para text-center" style="color: green;"><i>Hungry? We Deliver</i></p>
+    </h2>
+  </div>
+
+  <div class="container addcategory" *ngIf="roles=='admin'" >
+    <button class="btn btn-success" routerLink="/add-category"><i class="bi bi-plus"></i>Add Category</button>
+  </div>
+  <div class="container card-size">
+    <div class="row">
+      <!-- Category List-->
+      <div class="col-md-3 category-card" *ngFor="let item of categories" (click)="OnClicked(item)">
+        <div class="card card-ay bg-light">
+          <div class="card-vegetables">
+            <img src="{{item.categoryImage}}" class="card-img-top" style="border-radius:70%;">
+          </div>
+          <div class="card-body">
+            <p class="card-text text-center" style="font-size: 18px;"><strong>{{item.categoryName}}</strong></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container products-container" id="listProducts">
+    <div class="card card-ad mt-5" *ngFor="let item of products" (click)="productDetails(item)" [ngClass]="{'discontinued':item.discontinued}" >
+      <img src="{{item.productImage}}" class="card-img-top card-img-size center" alt="...">
+      <div class="card-body">
+        <h5 class="card-title text-center">{{item.productName}}</h5>
+        <p class="card-text mb-2">Some quick example text to build on </p>
+        <div class="price-cart-container">
+          <h6>Rs. {{item.unitPrice}}</h6>
+          <a href="#"  routerLink="[product-details]/item.productId" class="btn btn-success cart-btn mb-2">View Product</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

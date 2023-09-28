@@ -1,0 +1,112 @@
+.card-ay {
+    transition: all 0.3s;
+    height: 15rem;
+    margin-bottom: 2rem;
+}
+.card-ay:hover {
+    transform: scale(1.15);
+    background-color: green;
+    border: 2px solid green;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card-vegetables {
+    width: 70px;
+    height: 80px;
+    margin: auto;
+    margin-top: 50px;
+
+}
+
+.para {
+    color: black;
+    font-size: 15px;
+    margin-top: 1%;
+}
+.addcategory{
+    text-align: right;
+    margin-top: -3.5%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+}
+.products-container {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space;
+    flex-wrap: wrap;
+}
+.category-card{
+    cursor: pointer;
+}
+
+.card-img-size {
+    height: 140px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    border-radius: 15px;
+}
+
+.discontinued{
+    opacity: 0.3;
+}
+.card-ad {
+        height: 320px;
+        width: 220px !important;
+        text-align: center;
+        border: 2px solid black;
+        border-bottom: 4px solid black;
+        border-radius: 15px  !important;
+        margin: 10px;
+         cursor: pointer;
+
+    }
+    
+    
+    
+    .price-cart-container{
+        position: absolute;
+        bottom: 0;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        
+    
+        h6{
+            font-weight: 700;
+            font-size: 14px;
+        }
+        .cart-btn{
+            margin-left: 10px;
+            padding: 7px;
+            border: 1px solid black;
+            border-bottom: 3px solid black;
+        }
+    }
+    
+
+@media screen and (max-width: 1000px) {
+    .card-ad {
+        width: 200px !important;
+        height: 290px;
+
+        .card-text {
+            margin-bottom: 2px !important;
+        }
+    }
+
+    .price-cart-container {
+        justify-content: space-between;
+
+        h6 {
+            font-weight: 700;
+            font-size: 15px;
+        }
+
+        .cart-btn {
+            padding: 7px;
+        }
+    }
+}

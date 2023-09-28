@@ -1,0 +1,32 @@
+.custom-input{
+    border: 1px solid green;
+    border-radius: 10px;
+}
+input::placeholder{   opacity: 0.3; }
+input{
+    margin-top: 5px;
+}
+.custom-card{
+    border: none;
+    padding: 10px;
+   width: 35%;
+}
+.custom-card:hover{
+    box-shadow: 1px 1px 6px #28965A;
+}
+.add-category-imgage-container{
+    width: 40%;
+    img{
+        width: 100%;
+    }
+}
+.custom-form{
+    border: none;
+}
+.my-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+ 

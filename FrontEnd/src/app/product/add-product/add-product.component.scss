@@ -1,0 +1,37 @@
+
+.heading{
+    color: #28965A;
+  }
+  
+  .para{
+    background-color: #28965A;
+    color: white;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border-radius: 2px;
+  }
+  input:hover{
+    border: 1px solid #28965A;
+  }
+  select:hover{
+    border: 1px solid #28965A;
+  }
+  .addImg{
+    background-image: url('../../../assets/Images/add-product-image.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .btn-success{
+    background-color: #28965A;
+    color: white;
+    border: 1px solid #ccc;
+  }
+  .btn-success:hover{
+    color: #28965A;
+    background-color: white;
+    border: 1px solid #ccc;
+  }
+  .h1{
+    background-color: #28965A;
+  }

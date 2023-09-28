@@ -1,0 +1,331 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400|Poppins:300,400,800&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Poppins';
+  
+}
+.product-detail-container{
+    margin-top: -130px !important;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.discontinued{
+  opacity: 0.3;
+}
+
+.container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  background: #f6f6f6;
+  position: relative;
+
+  .box {
+    width: 0%;
+    height: 620px;
+    background: #FFF;
+    position: absolute;
+    border: 2px solid black;
+    animation: openBox 1s cubic-bezier(.74, .06, .4, .92) forwards;
+
+    .product__img {
+      width: 600px;
+      position: absolute;
+      left: -150px;
+      top: 50px;
+      opacity: 0;
+      animation: fadeImg 1s ease-in-out forwards;
+      animation-delay: 1s;
+
+      .product_img{
+        width: 526px;
+        height: 526px;
+      }
+    }
+
+
+    .product__disc {
+      width: 0px;
+      height: 430px;
+      background: #FFCA1B;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+     position: absolute;
+      left: 0px;
+      top: 50px;
+      animation: showDisc 1s cubic-bezier(.74, .06, .4, .92) forwards;
+	  border-radius: 5px;
+
+      .product__disc--content {
+        width: 80%;
+        height: 80%;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        animation: fadeContent 1s ease-in-out forwards;
+        animation-delay: 1s;
+        opacity: 0;
+
+        .disc__content--about {
+          width: 100%;
+
+          h1 {
+            font-size: 32px;
+               font-family: 'Poppins';
+
+          }
+          span {
+            font-family: 'Lato';
+            font-size: 24px;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            display: flex;
+            opacity: 0.5;
+            margin-top: 10px;
+          }
+          p {
+            margin-top: 125px;
+            font-size: 16px;
+               font-family: 'Poppins';
+
+          }
+        } 
+      }
+    }
+
+    .product_buttons {
+      width:55%;
+      height: 100px;
+      bottom: 50px;
+      right: -50px;
+      position: absolute;
+
+      .btn {
+        width: 240px;
+        height: 70%;
+        font-size: 16px;
+        font-weight: bold;
+        font-family: 'Poppins';
+        -webkit-transition: ease-in-out 220ms;
+        -moz-transition: ease-in-out 220ms;
+        -ms-transition: ease-in-out 220ms;
+        -o-transition: ease-in-out 220ms;
+        transition: ease-in-out 220ms;
+        cursor: pointer;
+      }
+
+      .wishlist {
+        border: 2px solid #28965A;
+        background:transparent;
+        color: #91d49a;
+        position: absolute;
+        bottom: -25px;
+        left: 0;
+        opacity: 0;
+        animation: fadeWish 1s cubic-bezier(.74, .06, .4, .92) forwards;
+        animation-delay: 1s;
+
+        &:hover {
+          background: #28965A;
+          color: #FFF;
+          box-shadow: 0 0 26px #28965A;
+        }
+      }
+
+      .buy {
+        border: none;
+        background: #92cab0;
+        color: #FFF;
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        opacity: 0;
+        animation: fadeBuy 1s cubic-bezier(.74, .06, .4, .92) forwards;
+        animation-delay: 1s;
+
+        &:hover {
+          box-shadow: 0 0 26px #28965A;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 1200px)  {
+    .container {
+        //flex-wrap: wrap;
+        position:static !important;
+        align-items: flex-start !important;
+        justify-content: flex-start !important;
+    }
+    .box {
+       position: static !important;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        height: 100%;
+    }
+    .product__img {
+        position: static !important;
+        width: 50% !important;
+        height: 50% !important;
+       left: 0px !important;
+       top: 0px !important;
+
+        .product_img{
+            width: 100% !important;
+            height: 100% !important;
+
+        }
+    }
+    .product__disc{
+        position: static !important;
+      // top: 0px !important;
+       margin-top: 60px;
+       margin-bottom: 0px !important;
+    }
+    .product_buttons {
+        position: static !important;
+       // right: 0px !important;
+       margin-top: 0px;
+       padding-top: 0px;
+       // bottom: -20px !important;
+        width: 55% !important;
+        
+    }
+    .btn {
+        width: 30% !important;
+        margin: 5px;
+    }
+    .button{
+        position: static !important;
+    }
+    .buy{
+        position: static !important;
+    }
+    .wishlist{
+        position: static !important;
+        
+
+    }
+}
+
+
+@media screen and (max-width: 600px)  {
+    .product_buttons{
+        width: 70% !important;
+        display: flex !important;
+        align-items: center !important;
+      justify-content: center !important;
+      flex-wrap: wrap;
+    
+    }
+    .box{
+        width: 100% !important;
+    }
+    
+}
+
+@media screen and (max-width: 300px)  {
+    
+    .btn{
+        width: 100px !important;
+    }
+}
+
+
+/*
+  keyframes
+ */
+
+@keyframes openBox {
+  0% {
+    width: 0px;
+    left: 15%;
+  }
+  100% {
+    width: 900px;
+    left: 15%;
+  }
+}
+
+@keyframes fadeImg {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes upVideo {
+  0% {
+    opacity: 0;
+    bottom: -20px;
+  }
+  100% {
+    opacity: 1;
+    bottom: 0px;
+  }
+}
+
+@keyframes showDisc {
+  0% {
+    width: 0px;
+    left: 450px;
+  }
+  100% {
+    width: 500px;
+    left: 450px;
+  }
+}
+
+@keyframes fadeContent {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeWish {
+  0% {
+    opacity: 0;
+    bottom: -25px;
+  }
+  100% {
+    opacity: 1;
+    bottom: 0;
+  }
+}
+
+@keyframes fadeBuy {
+  0% {
+    opacity: 0;
+    bottom: -25px;
+  }
+  100% {
+    opacity: 1;
+    bottom: 0;
+  }
+}
+
+.product_img{
+	margin-top: 90px;
+}
+p{
+  margin-top: 760px;
+}

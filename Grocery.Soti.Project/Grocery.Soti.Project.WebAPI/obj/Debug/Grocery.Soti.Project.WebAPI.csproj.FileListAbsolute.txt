@@ -1,0 +1,307 @@
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\obj\Debug\Grocery.Soti.Project.WebAPI.csproj.AssemblyReference.cache
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\obj\Debug\Grocery.Soti.Project.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Grocery.Soti.Project.WebAPI.dll.config
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Grocery.Soti.Project.WebAPI.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Grocery.Soti.Project.WebAPI.pdb
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\csc.exe
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\csc.exe.config
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\csc.rsp
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\csi.exe
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\csi.exe.config
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\csi.rsp
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Console.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\vbc.exe
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\vbc.rsp
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Grocery.Soti.Project.DAL.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Web.Http.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Unity.Abstractions.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Unity.Container.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Unity.WebApi.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Grocery.Soti.Project.DAL.pdb
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Grocery.Soti.Project.DAL.dll.config
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Unity.Abstractions.pdb
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Unity.Container.pdb
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Web.Http.xml
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\obj\Debug\Grocery.Soti.Project.WebAPI.csproj.CopyComplete
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\obj\Debug\Grocery.Soti.Project.WebAPI.dll
+C:\Users\asaraswat\Downloads\ProjectFullStack\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\obj\Debug\Grocery.Soti.Project.WebAPI.pdb
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\obj\Debug\Grocery.Soti.Project.WebAPI.csproj.AssemblyReference.cache
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\obj\Debug\Grocery.Soti.Project.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\obj\Debug\Grocery.Soti.Project.WebAPI.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\obj\Debug\Grocery.Soti.Project.WebAPI.pdb
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Grocery.Soti.Project.WebAPI.dll.config
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Grocery.Soti.Project.WebAPI.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Grocery.Soti.Project.WebAPI.pdb
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\csc.exe
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\csc.exe.config
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\csc.rsp
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\csi.exe
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\csi.exe.config
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\csi.rsp
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Console.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\vbc.exe
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\vbc.rsp
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Grocery.Soti.Project.DAL.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Web.Http.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Unity.Abstractions.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Unity.Container.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Unity.WebApi.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Grocery.Soti.Project.DAL.pdb
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Grocery.Soti.Project.DAL.dll.config
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Unity.Abstractions.pdb
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Unity.Container.pdb
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Web.Http.xml
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\obj\Debug\Grocery.Soti.Project.WebAPI.csproj.CopyComplete
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Web.Cors.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\aygupta\HTML\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\obj\Debug\Grocery.Soti.Project.WebAPI.csproj.AssemblyReference.cache
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\obj\Debug\Grocery.Soti.Project.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\obj\Debug\Grocery.Soti.Project.WebAPI.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\obj\Debug\Grocery.Soti.Project.WebAPI.pdb
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Grocery.Soti.Project.WebAPI.dll.config
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Grocery.Soti.Project.WebAPI.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Grocery.Soti.Project.WebAPI.pdb
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\csc.exe
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\csc.exe.config
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\csc.rsp
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\csi.exe
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\csi.exe.config
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\csi.rsp
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\vbc.exe
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\vbc.rsp
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Grocery.Soti.Project.DAL.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Web.Cors.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Web.Http.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Unity.Abstractions.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Unity.Container.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Unity.WebApi.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Grocery.Soti.Project.DAL.pdb
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Grocery.Soti.Project.DAL.dll.config
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Unity.Abstractions.pdb
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Unity.Container.pdb
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Web.Http.xml
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\obj\Debug\Grocery.Soti.Project.WebAPI.csproj.CopyComplete
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Buffers.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Memory.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Microsoft.Owin.Cors.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Microsoft.Owin.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Owin.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Web.Helpers.Crypto.dll
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Microsoft.Owin.xml
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Microsoft.Owin.Cors.xml
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\adbhardwaj\OneDrive - SOTI Inc\Desktop\Grocery\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Web.Helpers.Crypto.pdb
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Grocery.Soti.Project.WebAPI.dll.config
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Grocery.Soti.Project.WebAPI.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Grocery.Soti.Project.WebAPI.pdb
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\csc.exe
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\csc.exe.config
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\csc.rsp
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\csi.exe
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\csi.exe.config
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\csi.rsp
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Buffers.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Memory.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Numerics.Vectors.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\vbc.exe
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\vbc.exe.config
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\vbc.rsp
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Grocery.Soti.Project.DAL.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Microsoft.Owin.Cors.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Microsoft.Owin.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Microsoft.Owin.Security.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Newtonsoft.Json.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Owin.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Web.Cors.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Web.Helpers.Crypto.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Web.Http.Cors.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Web.Http.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Unity.Abstractions.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Unity.Container.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Unity.WebApi.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Grocery.Soti.Project.DAL.pdb
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Grocery.Soti.Project.DAL.dll.config
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Microsoft.Owin.xml
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Microsoft.Owin.Cors.xml
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Microsoft.Owin.Security.xml
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Newtonsoft.Json.xml
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Web.Helpers.Crypto.pdb
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Web.Http.Cors.xml
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Unity.Abstractions.pdb
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\Unity.Container.pdb
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Web.Http.xml
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\obj\Debug\Grocery.Soti.Project.WebAPI.csproj.AssemblyReference.cache
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\obj\Debug\Grocery.Soti.Project.WebAPI.csproj.CoreCompileInputs.cache
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\obj\Debug\Grocery.Soti.Project.WebAPI.csproj.CopyComplete
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\obj\Debug\Grocery.Soti.Project.WebAPI.dll
+C:\FinalProject\GroceryVaale\Grocery.Soti.Project\Grocery.Soti.Project.WebAPI\obj\Debug\Grocery.Soti.Project.WebAPI.pdb

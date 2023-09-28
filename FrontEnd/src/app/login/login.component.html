@@ -1,0 +1,81 @@
+            <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+        <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <!------ Include the above in your HEAD tag ---------->
+        
+        <div class="container login-container">
+          <div class="row">
+            <div class="col-md-6">
+                <!-- <img style="width: 514px; height: 450px;"
+                  src="https://i...content-available-to-author-only...k.com/free-vector/flat-people-order-food-online-grocery-shopping-from-mobile-application-internet-purchases-with-home-delivery-from-supermarket-store-smartphone-screen-with-buy-button-basket-full-products_88138-856.jpg?w=1380&t=st=1695627560~exp=1695628160~hmac=f662e297f18ce4dc88f2dc0da53e3c0fe593b28bf0e67dfdef065dbacfe42b3e"
+                  alt=""> -->
+          
+                <img style="width: 100%; height: 100%;border-radius: 10px;"
+                  src="https://img.freepik.com/premium-vector/flat-illustration-design-cybersecurity_9206-2585.jpg?w=826"
+                  alt="">
+              </div>
+            <div class="col-md-6 border left_register">
+              <h3 class="text-center mt-5 ">Login</h3>
+              <form style="border: 0px solid linear-gradient(green,yellow);" class="row_first" [formGroup]="LoginForm" id="myForm"
+                (ngSubmit)="onSubmit()" action="Register">
+                <div class="square" style="--i: 0;"></div>
+                <div class="square" style="--i: 1;"></div>
+                <div class="square" style="--i: 2;"></div>
+                <div class="square" style="--i: 3;"></div>
+                <div class="square" style="--i: 4;"></div>
+                <div class="square" style="--i: 5;"></div>
+                <!-- First Row  -->
+        
+        
+                <!-- Second  Row  -->
+                <div class="row">
+                  <div class="col-md-12">
+                    <!-- Email  -->
+                    <h6>Email<span style="color: red;">*</span></h6>
+        
+                    <div class="form-group">
+                      <input type="email" placeholder="Enter your email" required formControlName="emailId" class="form-control"
+                        [ngClass]="{error: submitted || f['emailId'].touched && getControl('emailId').errors}">
+                      <div *ngIf="(submitted || f['emailId'].touched) && f['emailId'].errors" class="text-danger small">
+                        <span *ngIf="f['emailId'].errors?.['required']">Email Id is required</span>
+                        <span *ngIf="f['emailId'].errors?.['pattern']">Please enter valid Email Id</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+        
+                <!-- Third Row  -->
+                <div class="row mt-2">
+                  <div class="col-md-12">
+                    <h6>Password<span style="color: red;">*</span></h6>
+                    <div class="form-group">
+                      <input type="password" placeholder="Enter your password" required formControlName="password"
+                        class="form-control" [ngClass]="{error: submitted ||  f['password'].touched
+                      && getControl('password').errors
+        
+                  }">
+                      <div *ngIf="(submitted || f['password'].touched) && f['password'].errors" class="text-danger small">
+                        <span *ngIf="f['password'].errors?.['required']">Password is required</span>
+                      </div>
+                    </div>
+                  </div>   
+                </div>
+                <div *ngIf="!isSuccessful" class="text-center text-small text-danger">
+                  <span   *ngIf="f['password'].errors?.['required']">EmailId or password is incorrect</span>
+                </div>
+                <div class="row btn-row">
+                <button  class="btn btn-success col-md-10 mt-4">Log In</button>
+                </div>
+                
+                
+              </form>
+              <div class="row text-center dont-account">
+                Don't have an account? <a routerLink="/register">Register</a> 
+              </div>
+            </div>
+            
+      
+            
+          </div>
+        </div>
+

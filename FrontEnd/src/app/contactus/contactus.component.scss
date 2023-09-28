@@ -1,0 +1,137 @@
+// // Image in Contact Us Page
+
+.contactus-container{
+    display: flex;
+    align-items:center;
+    justify-content: space-evenly;
+   
+}
+
+.contactus-container-content{
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+
+// .contact-img{
+
+//     //background-image: url("../../assets/Images/contact-us.jpg");
+
+//     height: 500px;
+
+//     background-position: center;
+
+//     background-repeat: no-repeat;
+
+//     background-size: cover;
+
+   
+
+// }
+
+ 
+
+// // Content in Contact Us Page
+
+// .contact-content{
+
+//     background-image: linear-gradient(to right,rgba(252, 247, 217, 0.5), rgba(255, 245, 168, 0.541));
+
+//     height: 500px;
+
+//     font-family:Verdana, Geneva, Tahoma, sans-serif!important;
+
+// }
+
+ 
+
+// // Media Query for different size of screen
+
+// @media screen and (max-width: 960px) {
+
+ 
+
+//     .about-content{
+
+//       height: 550px;
+
+//     }
+
+ 
+
+//     .about-img{
+
+//         height: 550px;
+
+//     }
+
+//   }
+
+ 
+
+//   @media screen and (max-width: 960px) {
+
+ 
+
+//     .about-content{
+
+//       height: 600px;
+
+//     }
+
+ 
+
+//     .about-img{
+
+//         height: 600px;
+
+//     }
+
+//   }
+
+ 
+
+// @media screen and (max-width: 750px) {
+
+//       .about-img{
+
+//           height: 400px;
+
+//       }
+
+     
+
+//       .about-content{
+
+//         height: 500px;
+
+//       }
+
+//   }
+
+ 
+
+ 
+
+//   @media screen and (max-width: 500px) {
+
+//       .about-img{
+
+//           height: 300px;
+
+//       }
+
+     
+
+//       .about-content{
+
+//         height: 700px;
+
+//       }
+
+//   }
+
+ 

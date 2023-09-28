@@ -1,0 +1,196 @@
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+
+<div class="container login-container">
+  <div class="row">
+    <div class="col-md-6 border left_register">
+      <h3 class="text-center mt-4">Register</h3>
+      <form style="border: 0px solid linear-gradient(green,yellow);" class="row_first" [formGroup]="registerForm"
+        (ngSubmit)="onSubmit()">
+        <div class="square" style="--i: 0;"></div>
+        <div class="square" style="--i: 1;"></div>
+        <div class="square" style="--i: 2;"></div>
+        <div class="square" style="--i: 3;"></div>
+        <div class="square" style="--i: 4;"></div>
+        <div class="square" style="--i: 5;"></div>
+        <!-- First Row  -->
+
+        <div class="row">
+          <div class="col-md-6">
+            <!-- Email  -->
+            <h6>First Name<span style="color: red;">*</span></h6>
+            <div class="form-group">
+              <input type="text" placeholder="Enter First Name" required formControlName="firstName"
+                class="form-control"
+                [ngClass]="{error: submitted || f['firstName'].touched && getControl('firstName').errors}">
+              <div *ngIf="(submitted || f['firstName'].touched) && f['firstName'].errors" class="text-danger small">
+                <span *ngIf="f['firstName'].errors?.['required']">First Name is required</span>
+                <span *ngIf="f['firstName'].errors?.['minlength'] || f['firstName'].errors?.['maxlength']">First Name
+                  should
+                  contain atleast 3 characters</span>
+              </div>
+            </div>
+          </div>
+
+
+          <!-- Phone Number  -->
+          <div class="col-md-6">
+            <h6>Last Name<span style="color: red;">*</span></h6>
+            <div class="form-group">
+              <input type="text" placeholder="Enter Last Name" required formControlName="lastName" class="form-control"
+                [ngClass]="{error: submitted || f['lastName'].touched && getControl('lastName').errors}">
+
+              <div *ngIf="(submitted || f['lastName'].touched) && f['lastName'].errors" class="text-danger small">
+                <span *ngIf="f['lastName'].errors?.['required']">Last Name is required</span>
+                <span *ngIf="f['lastName'].errors?.['minlength'] || f['lastName'].errors?.['maxlength']">Last Name
+                  should
+                  contain atleast 3 characters</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <!-- Second  Row  -->
+        <div class="row">
+          <div class="col-md-13">
+            <!-- Email  -->
+            <h6>Email<span style="color: red;">*</span></h6>
+
+            <div class="form-group">
+              <input type="email" placeholder="Enter your email" required formControlName="emailId" class="form-control"
+                [ngClass]="{error: submitted || f['emailId'].touched && getControl('emailId').errors}">
+              <div *ngIf="(submitted || f['emailId'].touched) && f['emailId'].errors" class="text-danger small">
+                <span *ngIf="f['emailId'].errors?.['required']">Email Id is required</span>
+                <span *ngIf="f['emailId'].errors?.['pattern']">Please enter valid Email Id</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row pb-3">
+          <div class="col-md-13">
+            <h6>Phone No<span style="color: red;">*</span></h6>
+
+            <input type="text" placeholder="Enter your number" required formControlName="contactNo" class="form-control"
+              [ngClass]="{error: submitted ||  f['contactNo'].touched
+          && getControl('contactNo').errors
+
+      }">
+            <div *ngIf="(submitted || f['contactNo'].touched) && f['contactNo'].errors" class="text-danger small">
+              <span *ngIf="f['contactNo'].errors?.['required']">Phone No is required</span>
+              <span *ngIf="f['contactNo'].errors?.['max']">Phone No is not valid</span>
+              <span *ngIf="f['contactNo'].errors?.['pattern']">Phone No must be a number</span>
+
+            </div>
+          </div>
+        </div>
+
+
+
+
+        <!-- Third Row  -->
+        <div class="row">
+          <div class="col-md-6">
+            <h6>Password<span style="color: red;">*</span></h6>
+            <div class="form-group">
+              <input type="password" placeholder="Enter your password" required formControlName="password"
+                class="form-control" [ngClass]="{error: submitted ||  f['password'].touched
+              && getControl('password').errors
+
+          }">
+              <div *ngIf="(submitted || f['password'].touched) && f['password'].errors" class="text-danger small">
+                <span *ngIf="f['password'].errors?.['required']">Password is required</span>
+                <span *ngIf="f['password'].errors?.['minlength']">Password must be 8 character long</span>
+                <span *ngIf="f['password'].errors?.['maxlength']">Password must be less than 25 character</span>
+
+
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6">
+            <h6>Confirm Password<span style="color: red;">*</span></h6>
+            <div class="form-group">
+              <input type="text" placeholder="Confirm your password" required formControlName="confirmPassword"
+                class="form-control" [ngClass]="{error: submitted || f['confirmPassword'].touched
+                && getControl('confirmPassword').errors
+ 
+            }">
+              <div *ngIf="(submitted || f['confirmPassword'].touched) && f['confirmPassword'].errors"
+                class="text-danger small">
+                <span *ngIf=" f['confirmPassword'].errors?.['required']">Confirm Password is required</span>
+                <span *ngIf=" f['confirmPassword'].errors['notmatched']">Password and Confirm Password doesn't match
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+        <!-- Fourth Row -->
+        <div class="row">
+          <div class="col-md-6">
+            <!-- Password  -->
+            <h6>Date Of Birth<span style="color: red;">*</span></h6>
+            <div class="form-group">
+              <input type="date" required formControlName="dateOfBirth" class="form-control" [ngClass]="{error: submitted ||  f['dateOfBirth'].touched
+                && getControl('dateOfBirth').errors
+ 
+            }">
+              <div *ngIf="(submitted || f['dateOfBirth'].touched) && f['dateOfBirth'].errors" class="text-danger small">
+                <span *ngIf="f['dateOfBirth'].errors?.['required']">Date of Birth is Required</span>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col-md-6">
+            <h6>Gender<span style="color: red;">*</span></h6>
+            <div class="form-group">
+              <select formControlName="gender" class="form-control" required
+                [ngClass]="{error: submitted || f['gender'].touched && getControl('gender').errors }">
+                <option value="" selected>-----Select-----</option>
+                <option value="Male">Male</option>
+                <option value="Female">Female</option>
+              </select>
+              <div *ngIf="(submitted || f['gender'].touched) && f['gender'].errors" class="text-danger small">
+                <span *ngIf="f['gender'].errors?.['required']">Gender is Required</span>
+              </div>
+            </div>
+          </div>
+
+
+
+        </div>
+
+        <div class="row">
+          <span class="shake" *ngIf="duplicateStatus"><span style="color: red;">*Mobile No Or Email ID Already
+              Present</span></span>
+              <div *ngIf="!isSuccessful" class="text-center text-small text-danger">
+                <span >Please enter correct Details</span>
+              </div>
+          <button class="button">
+            Register
+          </button>
+        </div>
+
+        <div class="row text-center already-account">
+          Already have an account? <a routerLink="/login">Login</a> 
+        </div>
+
+      </form>
+    </div>
+    <div class="col-md-6">
+      <!-- <img style="width: 514px; height: 450px;"
+        src="https://i...content-available-to-author-only...k.com/free-vector/flat-people-order-food-online-grocery-shopping-from-mobile-application-internet-purchases-with-home-delivery-from-supermarket-store-smartphone-screen-with-buy-button-basket-full-products_88138-856.jpg?w=1380&t=st=1695627560~exp=1695628160~hmac=f662e297f18ce4dc88f2dc0da53e3c0fe593b28bf0e67dfdef065dbacfe42b3e"
+        alt=""> -->
+
+      <img style="width: 100%; height: 80%;border-radius: 10px;"
+        src="https://img.freepik.com/free-vector/secure-data-concept-illustration_114360-2510.jpg?w=826&t=st=1695795538~exp=1695796138~hmac=770f9d3a3f2abe38f329320f9c2f49ae5f7939e151defb94794b169b2eb21b59" alt="">
+    </div>
+  </div>
+</div>
